@@ -1,0 +1,20 @@
+{
+    "total_samples": 5264,
+    "class_distribution": {
+        "0": 847,
+        "1": 2000,
+        "2": 2000,
+        "3": 417
+    },
+    "unique_texts": 5264,
+    "avg_text_length": 1364.9072948328267,
+    "target_names": [
+        "AI Phishing",
+        "Enron Ham",
+        "Manual Spam",
+        "Nigerian Scam"
+    ],
+    "extra_feature_dim": 24,
+    "timestamp": "2026-01-24T06:42:02.733954",
+    "preprocessing": "enhanced_with_emailtext_value_objects"
+}
