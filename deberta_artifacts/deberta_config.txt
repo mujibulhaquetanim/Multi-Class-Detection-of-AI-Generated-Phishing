@@ -1,6 +1,0 @@
-model: microsoft/deberta-v3-base
-max_length: 384
-epochs: 2
-folds: 5
-calibration: temperature scaling
-semantic_nigerian: true
